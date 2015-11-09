@@ -1,2 +1,2 @@
-# bits
+# Initial repository
 bits
